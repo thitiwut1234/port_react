@@ -2,10 +2,10 @@
     position: fixed;
     margin-top: 20px;
     display: flex;
-    bottom: 60px;
+    bottom: 15%;
   }
   .social i {
-    padding-right: 30px;
+    padding-right: center;
     font-size: 25px;
     color: #9a9b9c;
   }

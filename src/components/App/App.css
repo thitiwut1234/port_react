@@ -1,4 +1,16 @@
-.App-header {
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+}
+
+.App {
+  /* display: flex; */
+  min-width: 100vw;
+  height: 100vh;
+  background-color: #282c34;
+}
+/* .App-header {
   background-color: #282c34;
   font-size: calc(2vmin);
   width: 100vw ;
@@ -10,14 +22,11 @@
   flex-direction: column;
   margin: 0;
   height: 100%;
-
-  /* margin : 0 auto ; */
-  /* top : 52vh; */
 }
 
 content{
   background-color: #181818;
-}
+} */
 /* 
 .main{
   height: 100vh;
