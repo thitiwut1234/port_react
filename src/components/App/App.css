@@ -1,0 +1,7 @@
+.App-header {
+  background-color: #282c34;
+  font-size: calc(2vmin);
+  /* left: 5%; */
+  width: 100vw ;
+  position: fixed;
+}
